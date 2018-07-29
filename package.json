@@ -1,0 +1,24 @@
+{
+  "name": "boiler-palm",
+  "version": "0.0.1",
+  "author": {
+    "name": "c10t"
+  },
+  "private": true,
+  "description": "A palm-tree wanna be a boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c10t/boiler-palm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c10t/boiler-palm/issues"
+  },
+  "scripts": {
+    "test": "echo \"ERROR: mp test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
